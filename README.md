@@ -4,6 +4,10 @@ Hello, everyone!
 
 In this repository, you can find a dataset called The Ultimate Halloween Candy Power Ranking.
 
+**SKILL SHOWN - LOGISTIC REGRESSION + PROBABILITY**
+
+For full code and explanation of the code - open PDF file! License below!
+
 I have used this dataset to create a logistic regression, and to calculate probabilities that a candy is indeed a chocolate one, based on the variables below. I have changed the values of all variables to numeric, in order to proceed with the logistic regression. 
 
 Variable names and description are as it follows:
@@ -24,3 +28,4 @@ Variable names and description are as it follows:
 
 Acknowledgements:
 Link to Kaggle: https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking. This dataset is Copyright (c) 2014 ESPN Internet Ventures and distributed under an MIT license. Check out the analysis and write-up here: The Ultimate Halloween Candy Power Ranking. Thanks to Walt Hickey for making the data available.
+

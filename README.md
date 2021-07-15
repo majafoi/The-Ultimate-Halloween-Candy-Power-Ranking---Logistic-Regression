@@ -8,6 +8,8 @@ In this repository, you can find a dataset called The Ultimate Halloween Candy P
 
 For full code and explanation of the code - open PDF file! License below!
 
+***CONCLUSION HERE - https://github.com/majafoi/The-Ultimate-Halloween-Candy-Power-Ranking---Logistic-Regression/blob/main/Probabilities%20-%20is%20the%20candy%20a%20chocolate%20one.pdf***
+
 I have used this dataset to create a logistic regression, and to calculate probabilities that a candy is indeed a chocolate one, based on the variables below. I have changed the values of all variables to numeric, in order to proceed with the logistic regression. 
 
 Variable names and description are as it follows:
